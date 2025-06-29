@@ -3,8 +3,8 @@
 
 # todo
 - [ ] vscode
-- [ ] zsh
+- [x] zsh
 - [ ] tmux
 - [ ] neovim
 - [ ] git
-- [ ] zed
+- [x] zed
